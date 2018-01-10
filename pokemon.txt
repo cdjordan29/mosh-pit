@@ -1,0 +1,9 @@
+bulbasaur.png
+charmander.png
+dragonite.png
+eevee.png
+jigglypuff.png
+mew.png
+mewtwo.png
+pikachu.png
+squirtle.png
